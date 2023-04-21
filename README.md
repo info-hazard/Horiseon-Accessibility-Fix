@@ -1,2 +1,29 @@
 # Horiseon-Accessibility-Fix
-A project focused on the cleaning of the original Horiseon code with fixes pertaining to HTML semantics, the CSS Style Sheet, and general accessibility standards.
+
+## Description
+
+A project and web application focused on the cleaning of the original Horiseon code with fixes pertaining to HTML semantics, the CSS Style Sheet, and general accessibility standards.
+
+## Installation
+To view the webpage visit this link: (placeholder)
+
+To view or alter the code you must:
+1. Copy the SSH or HTML from my Github Repository
+2. Clone it to your repository using Git Commands
+3. Navigate to the directory of the newly cloned repository using the terminal or GitBash
+4. Open up VS CODE in directory!
+
+## Usage
+
+The usage of this application is to provide information to those who want to know more about Horiseon.
+
+## License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
+    
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
+    
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
+
+
+
