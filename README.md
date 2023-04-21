@@ -5,7 +5,7 @@
 A project and web application focused on the cleaning of the original Horiseon code with fixes pertaining to HTML semantics, the CSS Style Sheet, and general accessibility standards.
 
 ## Installation
-To view the webpage visit this link: (placeholder)
+To view the webpage visit this link: https://info-hazard.github.io/Horiseon-Accessibility-Fix/#search-engine-optimization
 
 To view or alter the code you must:
 1. Copy the SSH or HTML from my Github Repository
